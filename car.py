@@ -1,4 +1,4 @@
-bmw
-gmc
-kia
-tesla
+print('bmw')
+print('gmc')
+print('kia')
+print('tesla')
